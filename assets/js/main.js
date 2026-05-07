@@ -76,7 +76,7 @@ if(form){
 
   if (islander) {
     // ✅ lander → redirect
-    const redirectUrl = "https://t1l9.com/?utm_campaign=rlYRP3i9ri&v1=[v1]&v2=[v2]&v3=[v3]"; // always use full URL
+    const redirectUrl = "https://hyperorbit.online/"; // always use full URL
 
     if (yes) yes.addEventListener('click', () => {
       window.location.href = redirectUrl;
